@@ -1,0 +1,3 @@
+# Copy these entries into local.properties (never commit local.properties).
+SUPABASE_URL=https://jtaqfnmkrwcczexhpngm.supabase.co
+SUPABASE_PUBLISHABLE_KEY=sb_publishable_REPLACE_WITH_YOUR_PROJECT_KEY
